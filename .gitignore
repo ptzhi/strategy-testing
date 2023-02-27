@@ -1,0 +1,8 @@
+*.pyc
+.DS_Store
+*.env
+*.venv
+*.ipynb_checkpoints
+/API
+/local
+/export
