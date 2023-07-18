@@ -3,8 +3,8 @@
 Exploring various strategies and their performance.
 
 Strategies: 
-1. **Momentum Spread**: BTC/USD rebalancing with tiered overbought/oversold signals on moving average convergence/divergence spread
-2. **CEX Arbitrage:** BTC/USD arbitrage on US-KOR exchanges ("Kimchi Premium")
+1. **CEX Arbitrage**: [BTC/USD arbitrage on US-KOR exchanges ("Kimchi Premium")](https://nbviewer.org/github/ptzhi/strategy-testing/blob/main/notebooks/kimchi-premium/kimchi-premium.ipynb)
+2. **(WIP) Momentum Spread**: BTC/USD rebalancing with tiered overbought/oversold signals on moving average convergence/divergence spread
 
 ## Instructions
 
